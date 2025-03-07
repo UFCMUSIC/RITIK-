@@ -24,7 +24,9 @@ gpytranslate
 gtts
 hachoir
 heroku3
-httpx==0.27.0
+httpx[http2]
+kurigram==2.1.36
+lyricsgenius
 img2pdf
 instaloader
 lexica-api
@@ -63,6 +65,7 @@ tgcrypto==1.2.5
 unidecode
 wget
 youtube-search
-youtube-search-python
+youtube-search-python 
+py-yt-search>=0.2
 git+https://github.com/KurimuzonAkuma/pyrogram
 git+https://github.com/yt-dlp/yt-dlp
