@@ -24,9 +24,7 @@ gpytranslate
 gtts
 hachoir
 heroku3
-httpx[http2]
-kurigram==2.1.36
-lyricsgenius
+httpx[http2]==2.1.36
 img2pdf
 instaloader
 lexica-api
