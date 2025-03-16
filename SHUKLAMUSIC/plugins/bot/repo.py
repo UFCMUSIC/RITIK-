@@ -29,7 +29,7 @@ async def start(_, msg):
           InlineKeyboardButton("♡ α∂∂ иσω ♡", url=f"https://t.me/Komal_music_bot?startgroup=true")
         ],
         [
-          InlineKeyboardButton("ѕυρρσɾƚ", url="https://t.me/YARO_KA_ADDAA"),
+          InlineKeyboardButton("ѕυρρσɾƚ", url="https://t.me/BestFriendsChattingZone"),
           InlineKeyboardButton("𝐍𝐎𝐓𝐓𝐘 𝐁𝐎𝐘", url="https://t.me/INNOCENT_FUCKER"),
           ],
                [
