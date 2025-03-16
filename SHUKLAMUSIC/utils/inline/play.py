@@ -64,7 +64,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         # [
            # InlineKeyboardButton(text="✭ ᴜᴘᴅᴀᴛᴇ ❥", url="https://t.me/KomalMusicUpdate",),
-            # InlineKeyboardButton(text="✭ sᴜᴘᴘᴏʀᴛ ❥", url="https://t.me/YARO_KA_ADDAA",),
+            # InlineKeyboardButton(text="✭ sᴜᴘᴘᴏʀᴛ ❥", url="https://t.me/BestFriendsChattingZone",),
         # ],
         [
             InlineKeyboardButton(text="▷", callback_data=f"ADMIN Resume|{chat_id}"),
@@ -91,7 +91,7 @@ def stream_markup(_, chat_id):
         ],
         # [
             # InlineKeyboardButton(text="✭ ᴜᴘᴅᴀᴛᴇ ❥", url="https://t.me/KomalMusicUpdate",),
-            # InlineKeyboardButton(text="✭ sᴜᴘᴘᴏʀᴛ ❥", url="https://t.me/YARO_KA_ADDAA",),
+            # InlineKeyboardButton(text="✭ sᴜᴘᴘᴏʀᴛ ❥", url="https://t.me/BestFriendsChattingZone",),
         # ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
