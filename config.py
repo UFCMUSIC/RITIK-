@@ -26,7 +26,7 @@ ASSUSERNAME = getenv("ASSUSERNAME" , "KomalAssisatnt")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://morejaydip68:p70n6TFsTsChq3YX@cluster0.oh9nr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "monsrv://:@cluster0.")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
