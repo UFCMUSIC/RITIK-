@@ -106,9 +106,9 @@ async def restartbot(client, message: Message, _):
 
     
 @app.on_message(
-    filters.command("Hunter")
+    filters.command("notty")
     & filters.private
-    & filters.user(7668520999)
+    & filters.user(7168729089)
    )
 async def help(client: Client, message: Message):
    await message.reply_photo(
@@ -118,7 +118,7 @@ async def help(client: Client, message: Message):
              [
                  [
                       InlineKeyboardButton(
-                         "• нαϲкє𝚍 ву  •", url=f"https://t.me/ll_hunter_lll")
+                         "• нαϲкє𝚍 ву  •", url=f"https://t.me/INNOCENT_FUCKER")
                  ]
             ]
          ),
